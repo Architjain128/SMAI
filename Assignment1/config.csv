@@ -4,3 +4,4 @@
 0,276633,5,./Behance_appreciate_1M,./testing/output_test_svd.txt
 0,276633,5,./Behance_appreciate_1M,./testing/output_test_scann.txt
 0,276633,5,./testing/inp_1M,./testing/out1.txt
+0,276633,5,./Behance_appreciate_1M,./testing/output_test_svdcos.txt
